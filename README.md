@@ -19,7 +19,7 @@
   <img align="center" alt="M-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="M-Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg">          
   <img align="center" alt="M-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="M-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/36991714?v=4">
+  
     
   ##
  
